@@ -14,25 +14,5 @@
             <p>Welcome to my personal website</p>
         </div>
     </header>
-
-    <section class="about">
-        <div class="container">
-            <h2>About Me</h2>
-            <p>I’m a developer passionate about creating amazing software. I specialize in web development, but I also enjoy working with machine learning and open-source projects.</p>
-        </div>
-    </section>
-
-    <section class="contact">
-        <div class="container">
-            <h2>Contact</h2>
-            <p>Feel free to reach out to me via email: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
-        </div>
-    </section>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2025 Your Name</p>
-        </div>
-    </footer>
 </body>
 </html>
